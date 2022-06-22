@@ -1,0 +1,4 @@
+- 👋 Olá, Sou @piresyasmim
+- 👀 Estou Interessada Em Programação
+- 🌱 Estou Aprendendo Pensamento Computacional
+- 📫 santana.yasmim@escola.pr.gov.br
